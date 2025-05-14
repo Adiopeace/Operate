@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My First Website</title>
+  <title>welcome to Jst_Krypto Fintech</title>
 </head>
 <body>
   <h1>Hello from my iPhone!</h1>
